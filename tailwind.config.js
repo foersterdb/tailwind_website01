@@ -9,7 +9,8 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-          'assistant': ['Assistant', 'Helvetica', 'Arial', 'sans-serif']
+          'assistant': ['Assistant', 'Helvetica', 'Arial', 'sans-serif'],
+          'lora': ['Lora', 'Georgia', 'serif']
         }
       },
     },
