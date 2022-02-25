@@ -7,7 +7,11 @@ module.exports = {
     ],
     darkMode: false,
     theme: {
-      extend: {},
+      extend: {
+        fontFamily: {
+          'assistant': ['Assistant', 'Helvetica', 'Arial', 'sans-serif']
+        }
+      },
     },
     variants: {},
     plugins: [
